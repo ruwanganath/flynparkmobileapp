@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="300dp"
+    android:layout_height="150dp"
+    android:layout_marginTop="200dp"
+    android:layout_gravity="center_horizontal"
+    android:background="@color/white"
+    tools:context=".ui.deleteaccount.DeleteAccountFragment">
+
+    <TextView
+        android:id="@+id/textDeleteAccount"
+        android:layout_width="227dp"
+        android:layout_height="48dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginRight="8dp"
+        android:gravity="center_horizontal"
+        android:text="@string/text_confirm_delete_account"
+        android:textAlignment="center"
+        android:textSize="18sp"
+        android:textColor="@color/fly_dark_purple"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.506"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.212" />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/appCompatButtondeleteaccountYes"
+        android:layout_width="128dp"
+        android:layout_height="38dp"
+        android:background="@color/fly_purple"
+        android:inputType="textCapWords"
+        android:text="@string/text_yes"
+        android:textColor="@color/white"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.093"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textDeleteAccount"
+        app:layout_constraintVertical_bias="0.555" />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/appCompatButtondeleteaccountCancel"
+        android:layout_width="131dp"
+        android:layout_height="38dp"
+        android:background="@color/fly_purple"
+        android:inputType="textCapWords"
+        android:text="@string/text_cancel"
+        android:textColor="@color/white"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.905"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textDeleteAccount"
+        app:layout_constraintVertical_bias="0.555" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

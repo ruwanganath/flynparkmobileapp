@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_dash">
+
+    <fragment
+        android:id="@+id/nav_dash"
+        android:name="com.example.flynparkmelb.ui.dash.DashFragment"
+        android:label="@string/text_dashboard"
+        tools:layout="@layout/fragment_dash" >
+        <action
+            android:id="@+id/action_nav_dash_to_nav_searchparking"
+            app:destination="@id/nav_searchparking" />
+        <action
+            android:id="@+id/action_nav_dash_to_nav_parkinghistory"
+            app:destination="@id/nav_parkinghistory" />
+        <action
+            android:id="@+id/action_nav_dash_to_nav_changepassword"
+            app:destination="@id/nav_changepassword" />
+        <action
+            android:id="@+id/action_nav_dash_to_nav_signoff"
+            app:destination="@id/nav_signoff" />
+
+        <action
+            android:id="@+id/action_nav_dash_to_nav_deleteaccount"
+            app:destination="@id/nav_deleteaccount" />
+        <action
+            android:id="@+id/action_nav_dash_to_nav_about"
+            app:destination="@id/nav_about" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/nav_searchparking"
+        android:name="com.example.flynparkmelb.ui.searchparking.SearchParkingFragment"
+        android:label="@string/text_search_parking"
+        tools:layout="@layout/fragment_searchparking" />
+
+    <fragment
+        android:id="@+id/nav_parkinghistory"
+        android:name="com.example.flynparkmelb.ui.parkinghistory.ParkingHistoryFragment"
+        android:label="@string/text_paring_history"
+        tools:layout="@layout/fragment_parkinghistory" />
+
+    <fragment
+        android:id="@+id/nav_changepassword"
+        android:name="com.example.flynparkmelb.ui.changepassword.ChangePasswordFragment"
+        android:label="@string/text_change_password"
+        tools:layout="@layout/fragment_changepassword" />
+    <fragment
+        android:id="@+id/nav_deleteaccount"
+        android:name="com.example.flynparkmelb.ui.deleteaccount.DeleteAccountFragment"
+        android:label="@string/text_delete_account"
+        tools:layout="@layout/fragment_deleteaccount" />
+
+    <fragment
+        android:id="@+id/nav_about"
+        android:name="com.example.flynparkmelb.ui.about.AboutFragment"
+        android:label="@string/text_about"
+        tools:layout="@layout/fragment_about" />
+
+    <fragment
+        android:id="@+id/nav_signoff"
+        android:name="com.example.flynparkmelb.ui.signoff.SignoffFragment"
+        android:label="@string/text_signoff"
+        tools:layout="@layout/fragment_signoff" />
+</navigation>

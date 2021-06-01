@@ -1,0 +1,202 @@
+[
+    {
+        "merged": "C:\\Ruwanga\\DEAKIN\\T1-2021\\SIT708-Mobile Systems Development\\FlynParkMelb\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_findparking.png.flat",
+        "source": "C:\\Ruwanga\\DEAKIN\\T1-2021\\SIT708-Mobile Systems Development\\FlynParkMelb\\app\\src\\main\\res\\drawable-v24\\findparking.png"
+    },
+    {
+        "merged": "C:\\Ruwanga\\DEAKIN\\T1-2021\\SIT708-Mobile Systems Development\\FlynParkMelb\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_bg.png.flat",
+        "source": "C:\\Ruwanga\\DEAKIN\\T1-2021\\SIT708-Mobile Systems Development\\FlynParkMelb\\app\\src\\main\\res\\drawable-v24\\bg.png"
+    },
+    {
+        "merged": "C:\\Ruwanga\\DEAKIN\\T1-2021\\SIT708-Mobile Systems Development\\FlynParkMelb\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_signoff.png.flat",
+        "source": "C:\\Ruwanga\\DEAKIN\\T1-2021\\SIT708-Mobile Systems Development\\FlynParkMelb\\app\\src\\main\\res\\drawable-v24\\signoff.png"
+    },
+    {
+        "merged": "C:\\Ruwanga\\DEAKIN\\T1-2021\\SIT708-Mobile Systems Development\\FlynParkMelb\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Ruwanga\\DEAKIN\\T1-2021\\SIT708-Mobile Systems Development\\FlynParkMelb\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Ruwanga\\DEAKIN\\T1-2021\\SIT708-Mobile Systems Development\\FlynParkMelb\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_ic_menu_slideshow.xml.flat",
+        "source": "C:\\Ruwanga\\DEAKIN\\T1-2021\\SIT708-Mobile Systems Development\\FlynParkMelb\\app\\src\\main\\res\\drawable-v21\\ic_menu_slideshow.xml"
+    },
+    {
+        "merged": "C:\\Ruwanga\\DEAKIN\\T1-2021\\SIT708-Mobile Systems Development\\FlynParkMelb\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_bgwithlogo.png.flat",
+        "source": "C:\\Ruwanga\\DEAKIN\\T1-2021\\SIT708-Mobile Systems Development\\FlynParkMelb\\app\\src\\main\\res\\drawable-v24\\bgwithlogo.png"
+    },
+    {
+        "merged": "C:\\Ruwanga\\DEAKIN\\T1-2021\\SIT708-Mobile Systems Development\\FlynParkMelb\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_logo.png.flat",
+        "source": "C:\\Ruwanga\\DEAKIN\\T1-2021\\SIT708-Mobile Systems Development\\FlynParkMelb\\app\\src\\main\\res\\drawable-v24\\logo.png"
+    },
+    {
+        "merged": "C:\\Ruwanga\\DEAKIN\\T1-2021\\SIT708-Mobile Systems Development\\FlynParkMelb\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Ruwanga\\DEAKIN\\T1-2021\\SIT708-Mobile Systems Development\\FlynParkMelb\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Ruwanga\\DEAKIN\\T1-2021\\SIT708-Mobile Systems Development\\FlynParkMelb\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_dash.xml.flat",
+        "source": "C:\\Ruwanga\\DEAKIN\\T1-2021\\SIT708-Mobile Systems Development\\FlynParkMelb\\app\\src\\main\\res\\layout\\fragment_dash.xml"
+    },
+    {
+        "merged": "C:\\Ruwanga\\DEAKIN\\T1-2021\\SIT708-Mobile Systems Development\\FlynParkMelb\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_parkinghistory.xml.flat",
+        "source": "C:\\Ruwanga\\DEAKIN\\T1-2021\\SIT708-Mobile Systems Development\\FlynParkMelb\\app\\src\\main\\res\\layout\\fragment_parkinghistory.xml"
+    },
+    {
+        "merged": "C:\\Ruwanga\\DEAKIN\\T1-2021\\SIT708-Mobile Systems Development\\FlynParkMelb\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main_dashboard.xml.flat",
+        "source": "C:\\Ruwanga\\DEAKIN\\T1-2021\\SIT708-Mobile Systems Development\\FlynParkMelb\\app\\src\\main\\res\\layout\\activity_main_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Ruwanga\\DEAKIN\\T1-2021\\SIT708-Mobile Systems Development\\FlynParkMelb\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Ruwanga\\DEAKIN\\T1-2021\\SIT708-Mobile Systems Development\\FlynParkMelb\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Ruwanga\\DEAKIN\\T1-2021\\SIT708-Mobile Systems Development\\FlynParkMelb\\app\\build\\intermediates\\res\\merged\\debug\\layout_app_bar_main_dashboard.xml.flat",
+        "source": "C:\\Ruwanga\\DEAKIN\\T1-2021\\SIT708-Mobile Systems Development\\FlynParkMelb\\app\\src\\main\\res\\layout\\app_bar_main_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Ruwanga\\DEAKIN\\T1-2021\\SIT708-Mobile Systems Development\\FlynParkMelb\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Ruwanga\\DEAKIN\\T1-2021\\SIT708-Mobile Systems Development\\FlynParkMelb\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Ruwanga\\DEAKIN\\T1-2021\\SIT708-Mobile Systems Development\\FlynParkMelb\\app\\build\\intermediates\\res\\merged\\debug\\menu_activity_main_drawer.xml.flat",
+        "source": "C:\\Ruwanga\\DEAKIN\\T1-2021\\SIT708-Mobile Systems Development\\FlynParkMelb\\app\\src\\main\\res\\menu\\activity_main_drawer.xml"
+    },
+    {
+        "merged": "C:\\Ruwanga\\DEAKIN\\T1-2021\\SIT708-Mobile Systems Development\\FlynParkMelb\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_changepwd.png.flat",
+        "source": "C:\\Ruwanga\\DEAKIN\\T1-2021\\SIT708-Mobile Systems Development\\FlynParkMelb\\app\\src\\main\\res\\drawable-v24\\changepwd.png"
+    },
+    {
+        "merged": "C:\\Ruwanga\\DEAKIN\\T1-2021\\SIT708-Mobile Systems Development\\FlynParkMelb\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Ruwanga\\DEAKIN\\T1-2021\\SIT708-Mobile Systems Development\\FlynParkMelb\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Ruwanga\\DEAKIN\\T1-2021\\SIT708-Mobile Systems Development\\FlynParkMelb\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Ruwanga\\DEAKIN\\T1-2021\\SIT708-Mobile Systems Development\\FlynParkMelb\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Ruwanga\\DEAKIN\\T1-2021\\SIT708-Mobile Systems Development\\FlynParkMelb\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_history.png.flat",
+        "source": "C:\\Ruwanga\\DEAKIN\\T1-2021\\SIT708-Mobile Systems Development\\FlynParkMelb\\app\\src\\main\\res\\drawable-v24\\history.png"
+    },
+    {
+        "merged": "C:\\Ruwanga\\DEAKIN\\T1-2021\\SIT708-Mobile Systems Development\\FlynParkMelb\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_changepassword.xml.flat",
+        "source": "C:\\Ruwanga\\DEAKIN\\T1-2021\\SIT708-Mobile Systems Development\\FlynParkMelb\\app\\src\\main\\res\\layout\\fragment_changepassword.xml"
+    },
+    {
+        "merged": "C:\\Ruwanga\\DEAKIN\\T1-2021\\SIT708-Mobile Systems Development\\FlynParkMelb\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_signoff.xml.flat",
+        "source": "C:\\Ruwanga\\DEAKIN\\T1-2021\\SIT708-Mobile Systems Development\\FlynParkMelb\\app\\src\\main\\res\\layout\\fragment_signoff.xml"
+    },
+    {
+        "merged": "C:\\Ruwanga\\DEAKIN\\T1-2021\\SIT708-Mobile Systems Development\\FlynParkMelb\\app\\build\\intermediates\\res\\merged\\debug\\navigation_mobile_navigation.xml.flat",
+        "source": "C:\\Ruwanga\\DEAKIN\\T1-2021\\SIT708-Mobile Systems Development\\FlynParkMelb\\app\\src\\main\\res\\navigation\\mobile_navigation.xml"
+    },
+    {
+        "merged": "C:\\Ruwanga\\DEAKIN\\T1-2021\\SIT708-Mobile Systems Development\\FlynParkMelb\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_register.xml.flat",
+        "source": "C:\\Ruwanga\\DEAKIN\\T1-2021\\SIT708-Mobile Systems Development\\FlynParkMelb\\app\\src\\main\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Ruwanga\\DEAKIN\\T1-2021\\SIT708-Mobile Systems Development\\FlynParkMelb\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_deleteaccount.xml.flat",
+        "source": "C:\\Ruwanga\\DEAKIN\\T1-2021\\SIT708-Mobile Systems Development\\FlynParkMelb\\app\\src\\main\\res\\layout\\fragment_deleteaccount.xml"
+    },
+    {
+        "merged": "C:\\Ruwanga\\DEAKIN\\T1-2021\\SIT708-Mobile Systems Development\\FlynParkMelb\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Ruwanga\\DEAKIN\\T1-2021\\SIT708-Mobile Systems Development\\FlynParkMelb\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Ruwanga\\DEAKIN\\T1-2021\\SIT708-Mobile Systems Development\\FlynParkMelb\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Ruwanga\\DEAKIN\\T1-2021\\SIT708-Mobile Systems Development\\FlynParkMelb\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Ruwanga\\DEAKIN\\T1-2021\\SIT708-Mobile Systems Development\\FlynParkMelb\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_about.xml.flat",
+        "source": "C:\\Ruwanga\\DEAKIN\\T1-2021\\SIT708-Mobile Systems Development\\FlynParkMelb\\app\\src\\main\\res\\layout\\fragment_about.xml"
+    },
+    {
+        "merged": "C:\\Ruwanga\\DEAKIN\\T1-2021\\SIT708-Mobile Systems Development\\FlynParkMelb\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login.xml.flat",
+        "source": "C:\\Ruwanga\\DEAKIN\\T1-2021\\SIT708-Mobile Systems Development\\FlynParkMelb\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Ruwanga\\DEAKIN\\T1-2021\\SIT708-Mobile Systems Development\\FlynParkMelb\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_forgot_password.xml.flat",
+        "source": "C:\\Ruwanga\\DEAKIN\\T1-2021\\SIT708-Mobile Systems Development\\FlynParkMelb\\app\\src\\main\\res\\layout\\activity_forgot_password.xml"
+    },
+    {
+        "merged": "C:\\Ruwanga\\DEAKIN\\T1-2021\\SIT708-Mobile Systems Development\\FlynParkMelb\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_searchparking.xml.flat",
+        "source": "C:\\Ruwanga\\DEAKIN\\T1-2021\\SIT708-Mobile Systems Development\\FlynParkMelb\\app\\src\\main\\res\\layout\\fragment_searchparking.xml"
+    },
+    {
+        "merged": "C:\\Ruwanga\\DEAKIN\\T1-2021\\SIT708-Mobile Systems Development\\FlynParkMelb\\app\\build\\intermediates\\res\\merged\\debug\\layout_nav_header_main_dashboard.xml.flat",
+        "source": "C:\\Ruwanga\\DEAKIN\\T1-2021\\SIT708-Mobile Systems Development\\FlynParkMelb\\app\\src\\main\\res\\layout\\nav_header_main_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Ruwanga\\DEAKIN\\T1-2021\\SIT708-Mobile Systems Development\\FlynParkMelb\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Ruwanga\\DEAKIN\\T1-2021\\SIT708-Mobile Systems Development\\FlynParkMelb\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Ruwanga\\DEAKIN\\T1-2021\\SIT708-Mobile Systems Development\\FlynParkMelb\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Ruwanga\\DEAKIN\\T1-2021\\SIT708-Mobile Systems Development\\FlynParkMelb\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Ruwanga\\DEAKIN\\T1-2021\\SIT708-Mobile Systems Development\\FlynParkMelb\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_ic_menu_gallery.xml.flat",
+        "source": "C:\\Ruwanga\\DEAKIN\\T1-2021\\SIT708-Mobile Systems Development\\FlynParkMelb\\app\\src\\main\\res\\drawable-v21\\ic_menu_gallery.xml"
+    },
+    {
+        "merged": "C:\\Ruwanga\\DEAKIN\\T1-2021\\SIT708-Mobile Systems Development\\FlynParkMelb\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Ruwanga\\DEAKIN\\T1-2021\\SIT708-Mobile Systems Development\\FlynParkMelb\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Ruwanga\\DEAKIN\\T1-2021\\SIT708-Mobile Systems Development\\FlynParkMelb\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_splash_screen.xml.flat",
+        "source": "C:\\Ruwanga\\DEAKIN\\T1-2021\\SIT708-Mobile Systems Development\\FlynParkMelb\\app\\src\\main\\res\\layout\\activity_splash_screen.xml"
+    },
+    {
+        "merged": "C:\\Ruwanga\\DEAKIN\\T1-2021\\SIT708-Mobile Systems Development\\FlynParkMelb\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_bin.png.flat",
+        "source": "C:\\Ruwanga\\DEAKIN\\T1-2021\\SIT708-Mobile Systems Development\\FlynParkMelb\\app\\src\\main\\res\\drawable-v24\\bin.png"
+    },
+    {
+        "merged": "C:\\Ruwanga\\DEAKIN\\T1-2021\\SIT708-Mobile Systems Development\\FlynParkMelb\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Ruwanga\\DEAKIN\\T1-2021\\SIT708-Mobile Systems Development\\FlynParkMelb\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Ruwanga\\DEAKIN\\T1-2021\\SIT708-Mobile Systems Development\\FlynParkMelb\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_ic_menu_camera.xml.flat",
+        "source": "C:\\Ruwanga\\DEAKIN\\T1-2021\\SIT708-Mobile Systems Development\\FlynParkMelb\\app\\src\\main\\res\\drawable-v21\\ic_menu_camera.xml"
+    },
+    {
+        "merged": "C:\\Ruwanga\\DEAKIN\\T1-2021\\SIT708-Mobile Systems Development\\FlynParkMelb\\app\\build\\intermediates\\res\\merged\\debug\\layout_content_main_dashboard.xml.flat",
+        "source": "C:\\Ruwanga\\DEAKIN\\T1-2021\\SIT708-Mobile Systems Development\\FlynParkMelb\\app\\src\\main\\res\\layout\\content_main_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Ruwanga\\DEAKIN\\T1-2021\\SIT708-Mobile Systems Development\\FlynParkMelb\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_dash.png.flat",
+        "source": "C:\\Ruwanga\\DEAKIN\\T1-2021\\SIT708-Mobile Systems Development\\FlynParkMelb\\app\\src\\main\\res\\drawable-v24\\dash.png"
+    },
+    {
+        "merged": "C:\\Ruwanga\\DEAKIN\\T1-2021\\SIT708-Mobile Systems Development\\FlynParkMelb\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Ruwanga\\DEAKIN\\T1-2021\\SIT708-Mobile Systems Development\\FlynParkMelb\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Ruwanga\\DEAKIN\\T1-2021\\SIT708-Mobile Systems Development\\FlynParkMelb\\app\\build\\intermediates\\res\\merged\\debug\\anim_beat_off.xml.flat",
+        "source": "C:\\Ruwanga\\DEAKIN\\T1-2021\\SIT708-Mobile Systems Development\\FlynParkMelb\\app\\src\\main\\res\\anim\\beat_off.xml"
+    },
+    {
+        "merged": "C:\\Ruwanga\\DEAKIN\\T1-2021\\SIT708-Mobile Systems Development\\FlynParkMelb\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_marker.png.flat",
+        "source": "C:\\Ruwanga\\DEAKIN\\T1-2021\\SIT708-Mobile Systems Development\\FlynParkMelb\\app\\src\\main\\res\\drawable-v24\\marker.png"
+    },
+    {
+        "merged": "C:\\Ruwanga\\DEAKIN\\T1-2021\\SIT708-Mobile Systems Development\\FlynParkMelb\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_car.png.flat",
+        "source": "C:\\Ruwanga\\DEAKIN\\T1-2021\\SIT708-Mobile Systems Development\\FlynParkMelb\\app\\src\\main\\res\\drawable-v24\\car.png"
+    },
+    {
+        "merged": "C:\\Ruwanga\\DEAKIN\\T1-2021\\SIT708-Mobile Systems Development\\FlynParkMelb\\app\\build\\intermediates\\res\\merged\\debug\\anim_beat_on.xml.flat",
+        "source": "C:\\Ruwanga\\DEAKIN\\T1-2021\\SIT708-Mobile Systems Development\\FlynParkMelb\\app\\src\\main\\res\\anim\\beat_on.xml"
+    },
+    {
+        "merged": "C:\\Ruwanga\\DEAKIN\\T1-2021\\SIT708-Mobile Systems Development\\FlynParkMelb\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Ruwanga\\DEAKIN\\T1-2021\\SIT708-Mobile Systems Development\\FlynParkMelb\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Ruwanga\\DEAKIN\\T1-2021\\SIT708-Mobile Systems Development\\FlynParkMelb\\app\\build\\intermediates\\res\\merged\\debug\\menu_main_dashboard.xml.flat",
+        "source": "C:\\Ruwanga\\DEAKIN\\T1-2021\\SIT708-Mobile Systems Development\\FlynParkMelb\\app\\src\\main\\res\\menu\\main_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Ruwanga\\DEAKIN\\T1-2021\\SIT708-Mobile Systems Development\\FlynParkMelb\\app\\build\\intermediates\\res\\merged\\debug\\drawable_side_nav_bar.xml.flat",
+        "source": "C:\\Ruwanga\\DEAKIN\\T1-2021\\SIT708-Mobile Systems Development\\FlynParkMelb\\app\\src\\main\\res\\drawable\\side_nav_bar.xml"
+    },
+    {
+        "merged": "C:\\Ruwanga\\DEAKIN\\T1-2021\\SIT708-Mobile Systems Development\\FlynParkMelb\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_item_list.xml.flat",
+        "source": "C:\\Ruwanga\\DEAKIN\\T1-2021\\SIT708-Mobile Systems Development\\FlynParkMelb\\app\\src\\main\\res\\layout\\fragment_item_list.xml"
+    }
+]

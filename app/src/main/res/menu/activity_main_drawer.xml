@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_dash"
+            android:icon="@drawable/dash"
+            android:title="@string/text_dashboard" />
+        <item
+            android:id="@+id/nav_searchparking"
+            android:icon="@drawable/findparking"
+            android:title="@string/text_search_parking" />
+        <item
+            android:id="@+id/nav_parkinghistory"
+            android:icon="@drawable/history"
+            android:title="@string/text_paring_history" />
+        <item
+            android:id="@+id/nav_changepassword"
+            android:icon="@drawable/changepwd"
+            android:title="@string/text_change_password" />
+        <item
+            android:id="@+id/nav_deleteaccount"
+            android:icon="@drawable/bin"
+            android:title="@string/text_delete_account" />
+        <item
+            android:id="@+id/nav_about"
+            android:icon="@drawable/car"
+            android:title="@string/text_about" />
+        <item
+            android:id="@+id/nav_signoff"
+            android:icon="@drawable/signoff"
+            android:title="@string/text_signoff" />
+    </group>
+</menu>

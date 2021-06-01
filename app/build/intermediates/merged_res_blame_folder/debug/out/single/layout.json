@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "C:\\Ruwanga\\DEAKIN\\T1-2021\\SIT708-Mobile Systems Development\\FlynParkMelb\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_changepassword.xml",
+        "source": "C:\\Ruwanga\\DEAKIN\\T1-2021\\SIT708-Mobile Systems Development\\FlynParkMelb\\app\\src\\main\\res\\layout\\fragment_changepassword.xml"
+    },
+    {
+        "merged": "C:\\Ruwanga\\DEAKIN\\T1-2021\\SIT708-Mobile Systems Development\\FlynParkMelb\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\content_main_dashboard.xml",
+        "source": "C:\\Ruwanga\\DEAKIN\\T1-2021\\SIT708-Mobile Systems Development\\FlynParkMelb\\app\\src\\main\\res\\layout\\content_main_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Ruwanga\\DEAKIN\\T1-2021\\SIT708-Mobile Systems Development\\FlynParkMelb\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_register.xml",
+        "source": "C:\\Ruwanga\\DEAKIN\\T1-2021\\SIT708-Mobile Systems Development\\FlynParkMelb\\app\\src\\main\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Ruwanga\\DEAKIN\\T1-2021\\SIT708-Mobile Systems Development\\FlynParkMelb\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_splash_screen.xml",
+        "source": "C:\\Ruwanga\\DEAKIN\\T1-2021\\SIT708-Mobile Systems Development\\FlynParkMelb\\app\\src\\main\\res\\layout\\activity_splash_screen.xml"
+    },
+    {
+        "merged": "C:\\Ruwanga\\DEAKIN\\T1-2021\\SIT708-Mobile Systems Development\\FlynParkMelb\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_deleteaccount.xml",
+        "source": "C:\\Ruwanga\\DEAKIN\\T1-2021\\SIT708-Mobile Systems Development\\FlynParkMelb\\app\\src\\main\\res\\layout\\fragment_deleteaccount.xml"
+    },
+    {
+        "merged": "C:\\Ruwanga\\DEAKIN\\T1-2021\\SIT708-Mobile Systems Development\\FlynParkMelb\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_dash.xml",
+        "source": "C:\\Ruwanga\\DEAKIN\\T1-2021\\SIT708-Mobile Systems Development\\FlynParkMelb\\app\\src\\main\\res\\layout\\fragment_dash.xml"
+    },
+    {
+        "merged": "C:\\Ruwanga\\DEAKIN\\T1-2021\\SIT708-Mobile Systems Development\\FlynParkMelb\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_item_list.xml",
+        "source": "C:\\Ruwanga\\DEAKIN\\T1-2021\\SIT708-Mobile Systems Development\\FlynParkMelb\\app\\src\\main\\res\\layout\\fragment_item_list.xml"
+    },
+    {
+        "merged": "C:\\Ruwanga\\DEAKIN\\T1-2021\\SIT708-Mobile Systems Development\\FlynParkMelb\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\app_bar_main_dashboard.xml",
+        "source": "C:\\Ruwanga\\DEAKIN\\T1-2021\\SIT708-Mobile Systems Development\\FlynParkMelb\\app\\src\\main\\res\\layout\\app_bar_main_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Ruwanga\\DEAKIN\\T1-2021\\SIT708-Mobile Systems Development\\FlynParkMelb\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_login.xml",
+        "source": "C:\\Ruwanga\\DEAKIN\\T1-2021\\SIT708-Mobile Systems Development\\FlynParkMelb\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Ruwanga\\DEAKIN\\T1-2021\\SIT708-Mobile Systems Development\\FlynParkMelb\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_about.xml",
+        "source": "C:\\Ruwanga\\DEAKIN\\T1-2021\\SIT708-Mobile Systems Development\\FlynParkMelb\\app\\src\\main\\res\\layout\\fragment_about.xml"
+    },
+    {
+        "merged": "C:\\Ruwanga\\DEAKIN\\T1-2021\\SIT708-Mobile Systems Development\\FlynParkMelb\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_parkinghistory.xml",
+        "source": "C:\\Ruwanga\\DEAKIN\\T1-2021\\SIT708-Mobile Systems Development\\FlynParkMelb\\app\\src\\main\\res\\layout\\fragment_parkinghistory.xml"
+    },
+    {
+        "merged": "C:\\Ruwanga\\DEAKIN\\T1-2021\\SIT708-Mobile Systems Development\\FlynParkMelb\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_signoff.xml",
+        "source": "C:\\Ruwanga\\DEAKIN\\T1-2021\\SIT708-Mobile Systems Development\\FlynParkMelb\\app\\src\\main\\res\\layout\\fragment_signoff.xml"
+    },
+    {
+        "merged": "C:\\Ruwanga\\DEAKIN\\T1-2021\\SIT708-Mobile Systems Development\\FlynParkMelb\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_searchparking.xml",
+        "source": "C:\\Ruwanga\\DEAKIN\\T1-2021\\SIT708-Mobile Systems Development\\FlynParkMelb\\app\\src\\main\\res\\layout\\fragment_searchparking.xml"
+    },
+    {
+        "merged": "C:\\Ruwanga\\DEAKIN\\T1-2021\\SIT708-Mobile Systems Development\\FlynParkMelb\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\nav_header_main_dashboard.xml",
+        "source": "C:\\Ruwanga\\DEAKIN\\T1-2021\\SIT708-Mobile Systems Development\\FlynParkMelb\\app\\src\\main\\res\\layout\\nav_header_main_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Ruwanga\\DEAKIN\\T1-2021\\SIT708-Mobile Systems Development\\FlynParkMelb\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_forgot_password.xml",
+        "source": "C:\\Ruwanga\\DEAKIN\\T1-2021\\SIT708-Mobile Systems Development\\FlynParkMelb\\app\\src\\main\\res\\layout\\activity_forgot_password.xml"
+    },
+    {
+        "merged": "C:\\Ruwanga\\DEAKIN\\T1-2021\\SIT708-Mobile Systems Development\\FlynParkMelb\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main_dashboard.xml",
+        "source": "C:\\Ruwanga\\DEAKIN\\T1-2021\\SIT708-Mobile Systems Development\\FlynParkMelb\\app\\src\\main\\res\\layout\\activity_main_dashboard.xml"
+    }
+]

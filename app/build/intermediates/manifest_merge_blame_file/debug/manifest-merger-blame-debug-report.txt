@@ -1,0 +1,130 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.flynparkmelb"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="26"
+8-->C:\Ruwanga\DEAKIN\T1-2021\SIT708-Mobile Systems Development\FlynParkMelb\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="30" />
+9-->C:\Ruwanga\DEAKIN\T1-2021\SIT708-Mobile Systems Development\FlynParkMelb\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+11-->C:\Ruwanga\DEAKIN\T1-2021\SIT708-Mobile Systems Development\FlynParkMelb\app\src\main\AndroidManifest.xml:6:5-78
+11-->C:\Ruwanga\DEAKIN\T1-2021\SIT708-Mobile Systems Development\FlynParkMelb\app\src\main\AndroidManifest.xml:6:22-76
+12    <uses-permission android:name="android.permission.INTERNET" />
+12-->C:\Ruwanga\DEAKIN\T1-2021\SIT708-Mobile Systems Development\FlynParkMelb\app\src\main\AndroidManifest.xml:7:5-67
+12-->C:\Ruwanga\DEAKIN\T1-2021\SIT708-Mobile Systems Development\FlynParkMelb\app\src\main\AndroidManifest.xml:7:22-64
+13
+14    <!-- Include required permissions for Google Maps API to run. -->
+15    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+15-->[com.google.android.gms:play-services-maps:17.0.1] C:\Users\sanda\.gradle\caches\transforms-2\files-2.1\76fa13965703f49101cfc7398345221c\jetified-play-services-maps-17.0.1\AndroidManifest.xml:23:5-79
+15-->[com.google.android.gms:play-services-maps:17.0.1] C:\Users\sanda\.gradle\caches\transforms-2\files-2.1\76fa13965703f49101cfc7398345221c\jetified-play-services-maps-17.0.1\AndroidManifest.xml:23:22-76
+16
+17    <uses-feature
+17-->[com.google.android.gms:play-services-maps:17.0.1] C:\Users\sanda\.gradle\caches\transforms-2\files-2.1\76fa13965703f49101cfc7398345221c\jetified-play-services-maps-17.0.1\AndroidManifest.xml:26:5-28:35
+18        android:glEsVersion="0x00020000"
+18-->[com.google.android.gms:play-services-maps:17.0.1] C:\Users\sanda\.gradle\caches\transforms-2\files-2.1\76fa13965703f49101cfc7398345221c\jetified-play-services-maps-17.0.1\AndroidManifest.xml:27:9-41
+19        android:required="true" />
+19-->[com.google.android.gms:play-services-maps:17.0.1] C:\Users\sanda\.gradle\caches\transforms-2\files-2.1\76fa13965703f49101cfc7398345221c\jetified-play-services-maps-17.0.1\AndroidManifest.xml:28:9-32
+20
+21    <queries>
+21-->[com.google.android.gms:play-services-maps:17.0.1] C:\Users\sanda\.gradle\caches\transforms-2\files-2.1\76fa13965703f49101cfc7398345221c\jetified-play-services-maps-17.0.1\AndroidManifest.xml:30:5-34:15
+22
+23        <!-- Needs to be explicitly declared on Android R+ -->
+24        <package android:name="com.google.android.apps.maps" />
+24-->[com.google.android.gms:play-services-maps:17.0.1] C:\Users\sanda\.gradle\caches\transforms-2\files-2.1\76fa13965703f49101cfc7398345221c\jetified-play-services-maps-17.0.1\AndroidManifest.xml:33:9-64
+24-->[com.google.android.gms:play-services-maps:17.0.1] C:\Users\sanda\.gradle\caches\transforms-2\files-2.1\76fa13965703f49101cfc7398345221c\jetified-play-services-maps-17.0.1\AndroidManifest.xml:33:18-61
+25    </queries>
+26
+27    <application
+27-->C:\Ruwanga\DEAKIN\T1-2021\SIT708-Mobile Systems Development\FlynParkMelb\app\src\main\AndroidManifest.xml:9:5-46:19
+28        android:allowBackup="true"
+28-->C:\Ruwanga\DEAKIN\T1-2021\SIT708-Mobile Systems Development\FlynParkMelb\app\src\main\AndroidManifest.xml:11:9-35
+29        android:appComponentFactory="@string/app_name"
+29-->C:\Ruwanga\DEAKIN\T1-2021\SIT708-Mobile Systems Development\FlynParkMelb\app\src\main\AndroidManifest.xml:12:9-55
+30        android:debuggable="true"
+31        android:extractNativeLibs="false"
+32        android:icon="@mipmap/ic_launcher"
+32-->C:\Ruwanga\DEAKIN\T1-2021\SIT708-Mobile Systems Development\FlynParkMelb\app\src\main\AndroidManifest.xml:13:9-43
+33        android:label="@string/app_name"
+33-->C:\Ruwanga\DEAKIN\T1-2021\SIT708-Mobile Systems Development\FlynParkMelb\app\src\main\AndroidManifest.xml:14:9-41
+34        android:roundIcon="@mipmap/ic_launcher_round"
+34-->C:\Ruwanga\DEAKIN\T1-2021\SIT708-Mobile Systems Development\FlynParkMelb\app\src\main\AndroidManifest.xml:15:9-54
+35        android:supportsRtl="true"
+35-->C:\Ruwanga\DEAKIN\T1-2021\SIT708-Mobile Systems Development\FlynParkMelb\app\src\main\AndroidManifest.xml:16:9-35
+36        android:testOnly="true"
+37        android:theme="@style/Theme.FlynParkMelb" >
+37-->C:\Ruwanga\DEAKIN\T1-2021\SIT708-Mobile Systems Development\FlynParkMelb\app\src\main\AndroidManifest.xml:17:9-50
+38        <meta-data
+38-->C:\Ruwanga\DEAKIN\T1-2021\SIT708-Mobile Systems Development\FlynParkMelb\app\src\main\AndroidManifest.xml:20:9-22:69
+39            android:name="com.google.android.gms.version"
+39-->C:\Ruwanga\DEAKIN\T1-2021\SIT708-Mobile Systems Development\FlynParkMelb\app\src\main\AndroidManifest.xml:21:13-58
+40            android:value="@integer/google_play_services_version" />
+40-->C:\Ruwanga\DEAKIN\T1-2021\SIT708-Mobile Systems Development\FlynParkMelb\app\src\main\AndroidManifest.xml:22:13-66
+41
+42        <!-- The API key for Google Maps-based APIs. -->
+43        <meta-data
+43-->C:\Ruwanga\DEAKIN\T1-2021\SIT708-Mobile Systems Development\FlynParkMelb\app\src\main\AndroidManifest.xml:25:9-27:71
+44            android:name="com.google.android.geo.API_KEY"
+44-->C:\Ruwanga\DEAKIN\T1-2021\SIT708-Mobile Systems Development\FlynParkMelb\app\src\main\AndroidManifest.xml:26:13-58
+45            android:value="AIzaSyDmAUAFDmXOW4AXOxepB5KdSwq1ps61pyU" />
+45-->C:\Ruwanga\DEAKIN\T1-2021\SIT708-Mobile Systems Development\FlynParkMelb\app\src\main\AndroidManifest.xml:27:13-68
+46
+47        <activity
+47-->C:\Ruwanga\DEAKIN\T1-2021\SIT708-Mobile Systems Development\FlynParkMelb\app\src\main\AndroidManifest.xml:29:9-32:68
+48            android:name="com.example.flynparkmelb.MainDashboardActivity"
+48-->C:\Ruwanga\DEAKIN\T1-2021\SIT708-Mobile Systems Development\FlynParkMelb\app\src\main\AndroidManifest.xml:30:13-50
+49            android:label="@string/title_activity_main_dashboard"
+49-->C:\Ruwanga\DEAKIN\T1-2021\SIT708-Mobile Systems Development\FlynParkMelb\app\src\main\AndroidManifest.xml:31:13-66
+50            android:theme="@style/Theme.FlynParkMelb.NoActionBar" />
+50-->C:\Ruwanga\DEAKIN\T1-2021\SIT708-Mobile Systems Development\FlynParkMelb\app\src\main\AndroidManifest.xml:32:13-66
+51        <activity
+51-->C:\Ruwanga\DEAKIN\T1-2021\SIT708-Mobile Systems Development\FlynParkMelb\app\src\main\AndroidManifest.xml:33:9-34:58
+52            android:name="com.example.flynparkmelb.ForgotPasswordActivity"
+52-->C:\Ruwanga\DEAKIN\T1-2021\SIT708-Mobile Systems Development\FlynParkMelb\app\src\main\AndroidManifest.xml:33:19-57
+53            android:parentActivityName="com.example.flynparkmelb.LoginActivity" />
+53-->C:\Ruwanga\DEAKIN\T1-2021\SIT708-Mobile Systems Development\FlynParkMelb\app\src\main\AndroidManifest.xml:34:13-56
+54        <activity android:name="com.example.flynparkmelb.LoginActivity" />
+54-->C:\Ruwanga\DEAKIN\T1-2021\SIT708-Mobile Systems Development\FlynParkMelb\app\src\main\AndroidManifest.xml:35:9-51
+54-->C:\Ruwanga\DEAKIN\T1-2021\SIT708-Mobile Systems Development\FlynParkMelb\app\src\main\AndroidManifest.xml:35:19-48
+55        <activity
+55-->C:\Ruwanga\DEAKIN\T1-2021\SIT708-Mobile Systems Development\FlynParkMelb\app\src\main\AndroidManifest.xml:36:9-38:58
+56            android:name="com.example.flynparkmelb.RegisterActivity"
+56-->C:\Ruwanga\DEAKIN\T1-2021\SIT708-Mobile Systems Development\FlynParkMelb\app\src\main\AndroidManifest.xml:37:13-45
+57            android:parentActivityName="com.example.flynparkmelb.LoginActivity" />
+57-->C:\Ruwanga\DEAKIN\T1-2021\SIT708-Mobile Systems Development\FlynParkMelb\app\src\main\AndroidManifest.xml:38:13-56
+58        <activity android:name="com.example.flynparkmelb.SplashScreenActivity" >
+58-->C:\Ruwanga\DEAKIN\T1-2021\SIT708-Mobile Systems Development\FlynParkMelb\app\src\main\AndroidManifest.xml:39:9-45:20
+58-->C:\Ruwanga\DEAKIN\T1-2021\SIT708-Mobile Systems Development\FlynParkMelb\app\src\main\AndroidManifest.xml:39:19-55
+59            <intent-filter>
+59-->C:\Ruwanga\DEAKIN\T1-2021\SIT708-Mobile Systems Development\FlynParkMelb\app\src\main\AndroidManifest.xml:40:13-44:29
+60                <action android:name="android.intent.action.MAIN" />
+60-->C:\Ruwanga\DEAKIN\T1-2021\SIT708-Mobile Systems Development\FlynParkMelb\app\src\main\AndroidManifest.xml:41:17-69
+60-->C:\Ruwanga\DEAKIN\T1-2021\SIT708-Mobile Systems Development\FlynParkMelb\app\src\main\AndroidManifest.xml:41:25-66
+61
+62                <category android:name="android.intent.category.LAUNCHER" />
+62-->C:\Ruwanga\DEAKIN\T1-2021\SIT708-Mobile Systems Development\FlynParkMelb\app\src\main\AndroidManifest.xml:43:17-77
+62-->C:\Ruwanga\DEAKIN\T1-2021\SIT708-Mobile Systems Development\FlynParkMelb\app\src\main\AndroidManifest.xml:43:27-74
+63            </intent-filter>
+64        </activity>
+65        <!-- Needs to be explicitly declared on P+ -->
+66        <uses-library
+66-->[com.google.android.gms:play-services-maps:17.0.1] C:\Users\sanda\.gradle\caches\transforms-2\files-2.1\76fa13965703f49101cfc7398345221c\jetified-play-services-maps-17.0.1\AndroidManifest.xml:39:9-41:40
+67            android:name="org.apache.http.legacy"
+67-->[com.google.android.gms:play-services-maps:17.0.1] C:\Users\sanda\.gradle\caches\transforms-2\files-2.1\76fa13965703f49101cfc7398345221c\jetified-play-services-maps-17.0.1\AndroidManifest.xml:40:13-50
+68            android:required="false" />
+68-->[com.google.android.gms:play-services-maps:17.0.1] C:\Users\sanda\.gradle\caches\transforms-2\files-2.1\76fa13965703f49101cfc7398345221c\jetified-play-services-maps-17.0.1\AndroidManifest.xml:41:13-37
+69
+70        <activity
+70-->[com.google.android.gms:play-services-base:17.5.0] C:\Users\sanda\.gradle\caches\transforms-2\files-2.1\e5dbfaec8ca8b3f56ed55adfe487d3b0\jetified-play-services-base-17.5.0\AndroidManifest.xml:23:9-26:75
+71            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+71-->[com.google.android.gms:play-services-base:17.5.0] C:\Users\sanda\.gradle\caches\transforms-2\files-2.1\e5dbfaec8ca8b3f56ed55adfe487d3b0\jetified-play-services-base-17.5.0\AndroidManifest.xml:24:13-79
+72            android:exported="false"
+72-->[com.google.android.gms:play-services-base:17.5.0] C:\Users\sanda\.gradle\caches\transforms-2\files-2.1\e5dbfaec8ca8b3f56ed55adfe487d3b0\jetified-play-services-base-17.5.0\AndroidManifest.xml:25:13-37
+73            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+73-->[com.google.android.gms:play-services-base:17.5.0] C:\Users\sanda\.gradle\caches\transforms-2\files-2.1\e5dbfaec8ca8b3f56ed55adfe487d3b0\jetified-play-services-base-17.5.0\AndroidManifest.xml:26:13-72
+74    </application>
+75
+76</manifest>

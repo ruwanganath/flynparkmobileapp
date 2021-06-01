@@ -1,0 +1,34 @@
+com/example/flynparkmelb/databinding/ActivityMainDashboardBinding.java
+ com.example.flynparkmelb.databinding.ActivityMainDashboardBinding
+com/example/flynparkmelb/databinding/FragmentDashBinding.java
+ com.example.flynparkmelb.databinding.FragmentDashBinding
+com/example/flynparkmelb/databinding/FragmentAboutBinding.java
+ com.example.flynparkmelb.databinding.FragmentAboutBinding
+com/example/flynparkmelb/databinding/FragmentSignoffBinding.java
+ com.example.flynparkmelb.databinding.FragmentSignoffBinding
+com/example/flynparkmelb/databinding/ActivityLoginBinding.java
+ com.example.flynparkmelb.databinding.ActivityLoginBinding
+com/example/flynparkmelb/databinding/NavHeaderMainDashboardBinding.java
+ com.example.flynparkmelb.databinding.NavHeaderMainDashboardBinding
+com/example/flynparkmelb/databinding/ActivitySplashScreenBinding.java
+ com.example.flynparkmelb.databinding.ActivitySplashScreenBinding
+com/example/flynparkmelb/databinding/FragmentDeleteaccountBinding.java
+ com.example.flynparkmelb.databinding.FragmentDeleteaccountBinding
+com/example/flynparkmelb/databinding/ContentMainDashboardBinding.java
+ com.example.flynparkmelb.databinding.ContentMainDashboardBinding
+com/example/flynparkmelb/databinding/FragmentChangepasswordBinding.java
+ com.example.flynparkmelb.databinding.FragmentChangepasswordBinding
+com/example/flynparkmelb/BuildConfig.java
+ com.example.flynparkmelb.BuildConfig
+com/example/flynparkmelb/databinding/ActivityForgotPasswordBinding.java
+ com.example.flynparkmelb.databinding.ActivityForgotPasswordBinding
+com/example/flynparkmelb/databinding/FragmentParkinghistoryBinding.java
+ com.example.flynparkmelb.databinding.FragmentParkinghistoryBinding
+com/example/flynparkmelb/databinding/FragmentItemListBinding.java
+ com.example.flynparkmelb.databinding.FragmentItemListBinding
+com/example/flynparkmelb/databinding/ActivityRegisterBinding.java
+ com.example.flynparkmelb.databinding.ActivityRegisterBinding
+com/example/flynparkmelb/databinding/FragmentSearchparkingBinding.java
+ com.example.flynparkmelb.databinding.FragmentSearchparkingBinding
+com/example/flynparkmelb/databinding/AppBarMainDashboardBinding.java
+ com.example.flynparkmelb.databinding.AppBarMainDashboardBinding

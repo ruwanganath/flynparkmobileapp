@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/relativeLayout"
+    android:background="@drawable/bg"
+    android:orientation="vertical"
+    app:layout_constraintBottom_toBottomOf="parent"
+    app:layout_constraintStart_toStartOf="parent"
+    tools:context=".SplashScreenActivity">
+
+    <ImageView
+        android:id="@+id/imageViewLogo"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:adjustViewBounds="true"
+        android:minWidth="386px"
+        android:minHeight="129px"
+        android:scaleType="center"
+        android:src="@drawable/logo" />
+
+    <TextView
+        android:id="@+id/textViewTextMotto"
+        android:layout_width="360dp"
+        android:layout_height="56dp"
+        android:ems="10"
+        android:fontFamily="sans-serif"
+        android:inputType="textPersonName"
+        android:text="For Hazzel Free Parking"
+        android:textColor="@color/white"
+        android:textSize="33dp"
+        android:textStyle="italic"
+        app:layout_constraintBottom_toBottomOf="@+id/imageViewLogo"
+        app:layout_constraintEnd_toEndOf="@+id/imageViewLogo"
+        app:layout_constraintStart_toStartOf="@+id/imageViewLogo"
+        app:layout_constraintTop_toTopOf="@+id/imageViewLogo"
+        app:layout_constraintVertical_bias="0.65" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
