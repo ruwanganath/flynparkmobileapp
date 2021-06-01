@@ -18,7 +18,7 @@ import com.google.android.material.snackbar.Snackbar
 import com.google.android.material.textfield.TextInputEditText
 import com.google.android.material.textfield.TextInputLayout
 
-
+// Register activity class
 class RegisterActivity : AppCompatActivity(), View.OnClickListener {
     private val activity = this@RegisterActivity
     private lateinit var nestedScrollView: NestedScrollView

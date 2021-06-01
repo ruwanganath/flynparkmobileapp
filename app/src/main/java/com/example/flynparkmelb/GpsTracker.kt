@@ -17,7 +17,7 @@ import androidx.appcompat.app.AlertDialog
 import android.util.Log
 import androidx.core.app.ActivityCompat
 
-
+//this class handles GPS tracking of the user
 internal class GpsTracker(private val mContext: Context) : Service(),
     LocationListener {
     // flag for GPS status

@@ -10,6 +10,7 @@ import androidx.lifecycle.Observer
 import androidx.lifecycle.ViewModelProvider
 import com.example.flynparkmelb.databinding.FragmentChangepasswordBinding
 
+// change password Fragment class
 class ChangePasswordFragment : Fragment() {
 
     private lateinit var changePasswordViewModel: ChangePasswordViewModel

@@ -8,6 +8,7 @@ import android.view.animation.Animation
 import android.view.animation.AnimationUtils
 import android.widget.ImageView
 
+// Splash screen activity class
 class SplashScreenActivity : AppCompatActivity() {
 
     private lateinit var imageView: ImageView

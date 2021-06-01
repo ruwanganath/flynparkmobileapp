@@ -13,6 +13,7 @@ import com.google.android.material.snackbar.Snackbar
 import com.google.android.material.textfield.TextInputEditText
 import com.google.android.material.textfield.TextInputLayout
 
+// Login activity class
 class LoginActivity : AppCompatActivity(), View.OnClickListener {
     private val activity = this@LoginActivity
     private lateinit var nestedScrollView: NestedScrollView

@@ -10,6 +10,7 @@ import androidx.lifecycle.Observer
 import androidx.lifecycle.ViewModelProvider
 import com.example.flynparkmelb.databinding.FragmentAboutBinding
 
+// Fly&Park Melbourne About Fragment
 class  AboutFragment : Fragment() {
 
     private lateinit var aboutViewModel: AboutViewModel
